@@ -1,38 +1,34 @@
-# python-beginner-projects
-My beginner Python projects and coding practice.
+ Python Beginner Projects 🐍
 
+My beginner Python projects and coding practice as I build my programming fundamentals.
 
-Simple Calculator
+Projects
 
-About
+1. Simple Calculator 🧮
 
-My first Python beginner project. This calculator performs basic arithmetic operations.
+A basic calculator that performs arithmetic operations using user input and conditional statements.
 
-Features
+Concepts: Variables, data types, input, arithmetic operators, and "if-elif-else".
 
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
-- Handles division by zero
-- Checks for invalid operators
+2. Number Guessing Game 🎯
 
-Concepts Practiced
+An interactive game in which the user guesses a randomly generated number between 1 and 20.
 
-- Variables and data types
-- User input and type conversion
-- Arithmetic operators
-- if, elif, and else conditions
-- Basic error handling
+Features:
 
-Language
+- Generates a random number.
+- Gives hints when the guess is too low or too high.
+- Repeats until the correct number is guessed.
+- Displays a winning message.
 
-Python
+Concepts: Variables, user input, type conversion, the "random" module, "while" loops, and conditional statements.
 
-How to Run
+Technologies
 
-Run "simple_calculator.py" using Python or Pydroid 3.
+- Python
 
-Learning Status
+Author
 
-Beginner project — built while learning Python fundamentals.
+"Katyani-hue" (https://github.com/Katyani-hue)
+
+I'm learning Python step by step and building projects through practice.
